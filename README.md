@@ -1,6 +1,6 @@
-# Fullstack Vue
+# Vue App
 
-## Single-file components - Calendar App
+## Single-file components - 7 days Calendar App
 
 1. Ensure you have `npm` installed.
 
